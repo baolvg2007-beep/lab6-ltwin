@@ -1,0 +1,10 @@
+C:\Users\ASUS\source\repos\LTWIN\lab6\obj\Debug\WindowsFormsApp2.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\LTWIN\lab6\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+C:\Users\ASUS\source\repos\LTWIN\lab6\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\LTWIN\lab6\bin\Debug\ProductManager.exe.config
+C:\Users\ASUS\source\repos\LTWIN\lab6\bin\Debug\ProductManager.exe
+C:\Users\ASUS\source\repos\LTWIN\lab6\bin\Debug\ProductManager.pdb
+C:\Users\ASUS\source\repos\LTWIN\lab6\obj\Debug\ProductManager.Properties.Resources.resources
+C:\Users\ASUS\source\repos\LTWIN\lab6\obj\Debug\ProductManager.exe
+C:\Users\ASUS\source\repos\LTWIN\lab6\obj\Debug\ProductManager.pdb
+C:\Users\ASUS\source\repos\LTWIN\lab6\obj\Debug\ProductManager.FrmProduct.resources
